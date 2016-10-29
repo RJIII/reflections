@@ -18,4 +18,4 @@ How might using version control make you more confident to make changes that cou
 A lot more confident!
 
 Now that you have your workspace set up, what do you want to try using Git for?
-I want to get all my work code setup wit git.
+I want to get all my work code setup wit git..
